@@ -1,7 +1,6 @@
-<h1 align="center"><b>Internship</b></h1>
-<h2  align="center">Report</h2>
+<h1 align="center"><b>Internship Report</b></h1>
 <p align="center">
-<img  src="https://upload.wikimedia.org/wikipedia/en/9/98/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png" alt="TU Logo" width="150" height="150">
+<img  src="https://upload.wikimedia.org/wikipedia/en/9/98/Dr._A.P.J._Abdul_Kalam_Technical_University_logo.png" alt="TU Logo" width="100" height="100">
 </p>
 <h3 align="center">B.Tech.</h3>
 <h3 align="center">Computer Science and Engineering</h3>
@@ -14,7 +13,7 @@
 <h3 align="center">(2000330100084)</h3>
 <h3 align="center">Raj Kumar Goel Institute of Technology Ghaziabad</h3>
 <p align="center">
-<img  src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ifm95ejwubtwlybduzgh" alt="TU Logo" width="150" height="150">
+<img  src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ifm95ejwubtwlybduzgh" alt="TU Logo" width="100" height="100">
 </p>
 <h3 align="center">5th KM. STONE, DELHI-MEERUT ROAD, GHAZIABAD (U.P)-201003</h3>
 <h3 align="center">Department of Computer Science & Engineering</h3>
@@ -51,6 +50,9 @@
     - [5.6.2. Linting Tools](#562-linting-tools)
     - [5.6.3. Testing and Debugging](#563-testing-and-debugging)
 - [6. Conclusion](#6-conclusion)
+  - [A Journey of Growth](#a-journey-of-growth)
+  - [Collaboration and Learning](#collaboration-and-learning)
+  - [A Bright Future](#a-bright-future)
 
 <div style="page-break-after: always;"></div>
 
@@ -190,4 +192,14 @@ In conclusion, my internship at Innercord was a multifaceted learning experience
 
 ## 6. Conclusion
 
-My internship at Innercord was a great learning experience that helped me develop my skills and knowledge as a web developer. I enjoyed working on the InnerCord project using the MEAN stack and artificial intelligence. I also appreciated the guidance and feedback from my mentor and the support from my team members. I am grateful for this opportunity and I hope to continue working on similar projects in the future.
+### A Journey of Growth
+
+My internship at Innercord was a remarkable journey of growth. I had the privilege of immersing myself in web development, mastering the MEAN stack, and exploring data analysis with Streamlit.
+
+### Collaboration and Learning
+
+Effective teamwork and agile methodologies empowered me to collaborate seamlessly and adapt to changing project requirements. I embraced a commitment to code quality and comprehensive testing practices.
+
+### A Bright Future
+
+As I look to the future, I'm grateful for the guidance of my mentor and the support of my colleagues. This internship has laid a solid foundation for my web development career, and I'm excited to apply these skills to future projects.
