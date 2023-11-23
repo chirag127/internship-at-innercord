@@ -1,3 +1,4 @@
+
 ## 1. Title page
 
 <h1 align="center"><b>Internship Report</b></h1>
@@ -87,13 +88,13 @@ To be recognized globally for delivering high-quality education in the ever-chan
 | C407.3    | Develop synergetic collaboration with industry and the university in promoting a knowledgeable society. |
 | C407.4    | Set up the stage for future recruitment by potential employers. |
 
-| Internship Objectives | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 |
-|-----------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|-----|
+| Internship Objectives | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |
+|-----------------------|----|----|----|----|----|----|----|----|----|-----|-----|-----|-----|-----|
 | **C407.1**            | 3  | 3  | 2  | 1  | 1  | 1  | 1  | 1  | 2  | 1   | 2   | 2   | 3   | 2   |
 | **C407.2**            | 3  | 3  | 2  | 1  | 2  | 1  | 1  | 1  | 2  | 1   | 1   | 2   | 3   | 3   |
 | **C407.3**            | 3  | 3  | 1  | 1  | 2  | 1  | 1  | 1  | 2  | 1   | 1   | 2   | 2   | 1   |
 | **C407.4**            | 3  | 3  | 1  | 1  | 2  | 1  | 1  | 1  | 1  | 1   | 1   | 2   | 2   | 1   |
-| **C407**              | 3  | 3  | 1.5| 1  |1.75| 1  |1   |1   |1.75|1   |1.25 |2   |2.5 |1.75|
+| **C407**              | 3  | 3  | 1.5| 1  |1.75| 1  |1   |1   |1.75|1    |1.25 |2    |2.5  |1.75 |
 
 <div style="page-break-after: always;"></div>
 
@@ -294,4 +295,3 @@ In conclusion, the real-world application section emphasizes the tangible impact
 <div style="page-break-after: always;"></div>
 
 ## 12. Evaluation Form
-
