@@ -1,5 +1,5 @@
 
-## 1. Title page
+# 1. Title page
 
 <h1 align="center"><b>Internship Report</b></h1>
 <p align="center">
@@ -24,7 +24,7 @@
 
 <div style="page-break-after: always;"></div>
 
-## 2. Declaration
+# 2. Declaration
 
 This is to certify that the Intership Report Entitled “Internship at InnerCord” which is being submitted in partial fulfillment of the requirement for the award of degree B. Tech in Computer Science and Engineering to RKGIT, Ghaziabad (Dr. A.P.J. Abdul Kalam Technical University, Lucknow) comprises only original work and studies carried out by the students themselves. The matter embodied in this work has not been submitted for the award of any other degree.
 
@@ -33,33 +33,33 @@ This is to certify that the Intership Report Entitled “Internship at InnerCord
 
 <div style="page-break-after: always;"></div>
 
-## 3. Vision and Mission of the Institute
+# 3. Vision and Mission of the Institute
 
-### 3.1. Vision of the Institute
+## 3.1. Vision of the Institute
 
 To continually develop excellent professionals capable of providing sustainable solutions to challenging problems in their fields and prove responsible global citizens.
 
-### 3.2. Mission of the Institute
+## 3.2. Mission of the Institute
 
 We wish to serve the nation by becoming a reputed deemed university for providing value-based professional education.
 
-### 3.3. Vision of the Department
+## 3.3. Vision of the Department
 
 To be recognized globally for delivering high-quality education in the ever-changing field of computer science & engineering, both of value & relevance to the communities we serve.
 
-### 3.4. Mission of the Department
+## 3.4. Mission of the Department
 
 1. To provide quality education in both the theoretical and applied foundations of Computer Science and train students to effectively apply this education to solve real-world problems.
 2. To amplify their potential for lifelong high-quality careers and give them a competitive advantage in the challenging global work environment.
 
-### 3.5. Program Educational Outcomes (PEOs)
+## 3.5. Program Educational Outcomes (PEOs)
 
 1. PEO 1: **Learning:** Our graduates to be competent with sound knowledge in the field of Computer Science & Engineering.
 2. PEO 2: **Employable:** To develop the ability among students to synthesize data and technical concepts for application to software product design for successful careers that meet the needs of Indian and multinational companies.
 3. PEO 3: **Innovative:** To develop research-oriented analytical ability among students to prepare them for making technical contributions to society.
 4. PEO 4: **Entrepreneur/Contribution:** To develop excellent leadership quality among students which they can use at different levels according to their experience and contribute to progress and development in society.
 
-### 3.6. Program Outcomes (POs)
+## 3.6. Program Outcomes (POs)
 
 **Engineering Graduates will be able to:**
 
@@ -76,7 +76,7 @@ To be recognized globally for delivering high-quality education in the ever-chan
 11. PO11: **Project management and finance:** Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
 12. PO12: **Life-long learning:** Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
 
-### 3.7. Program Specific Outcomes (PSOs)
+## 3.7. Program Specific Outcomes (PSOs)
 
 1. PSO1: **The ability to use standard practices and a suitable programming environment to develop software solutions.**
 2. PSO2: **The ability to employ the latest computer languages and platforms in creating innovative career opportunities.**
@@ -98,12 +98,13 @@ To be recognized globally for delivering high-quality education in the ever-chan
 
 <div style="page-break-after: always;"></div>
 
-## 4. Abstract
+# 4. Abstract
 
-This internship report documents the comprehensive learning experiences during my internship at InnerCord, a platform specializing in Ayurveda, Vedic Astrology, Yoga, Mindfulness, and Meditation. The report encompasses my diverse responsibilities, including MEAN stack web development, Streamlit-based data analysis, and Webflow integration. The document details the skills acquired, such as proficiency in MongoDB, Express, Angular, Node.js, Bootstrap, and Heroku deployment. It highlights the collaboration within an agile team, effective communication, and the application of industry best practices. The report concludes with reflections on personal growth, collaboration, and the anticipation of leveraging the gained skills in future projects.
+This internship report documents a comprehensive and transformative learning experience during my internship at InnerCord—a platform specializing in Ayurveda, Vedic Astrology, Yoga, Mindfulness, and Meditation. The report encapsulates diverse responsibilities, including MEAN stack web development, Streamlit-based data analysis, and Webflow integration. Skills acquired range from proficiency in MongoDB, Express, Angular, Node.js, Bootstrap to deploying on Heroku. MongoDB served as a reliable database, while Express and Node.js ensured robust API functionality. Angular facilitated dynamic interfaces, and deploying on Heroku demonstrated the scalability of MEAN stack applications. The Streamlit error analyzer project applied data analysis to provide actionable insights into error patterns and system performance. This real-world application enhanced decision-making within InnerCord, showcasing the significance of dynamic data visualization. Integrating Webflow into InnerCord's website demonstrated the practical use of design tools in a professional setting. The real-time impact on user engagement highlighted the significance of such integrations in the competitive online landscape. Emphasizing effective team collaboration and agile methodologies showcased their real-world applicability. Tools like Slack and Trello facilitated real-time collaboration, while Scrum and Kanban methodologies effectively managed project workflows. Emphasis is placed on collaboration within an agile team, effective communication, and application of industry best practices. The report concludes with reflections on personal growth, collaboration, and anticipation of leveraging gained skills in future projects. This narrative serves as a testament to the dynamic interplay between technology, personal development, and the ever-evolving landscape of web development.
+
 <div style="page-break-after: always;"></div>
 
-## 5. Table of Contents
+# 5. Table of Contents
 
 - [1. Title page](#1-title-page)
 - [2. Declaration](#2-declaration)
@@ -142,15 +143,15 @@ This internship report documents the comprehensive learning experiences during m
 
 <div style="page-break-after: always;"></div>
 
-## 6. List of Figures
+# 6. List of Figures
 
 <div style="page-break-after: always;"></div>
 
-## 7. copy of certificate
+# 7. copy of certificate
 
 <div style="page-break-after: always;"></div>
 
-## 8. Introduction
+# 8. Introduction
 
 The internship at InnerCord marked a transformative phase in the exploration of technology within a dynamic, forward-thinking company. InnerCord, a tech-driven entity, embodies innovation in the development of a sophisticated web application. This introduction aims to provide an insightful overview of the internship, emphasizing InnerCord's status as a technology-focused enterprise and the myriad technological skills acquired during the tenure.
 
@@ -162,31 +163,31 @@ Beyond web development, the internship featured engagement in Streamlit for data
 
 The subsequent sections of this report delve into the detailed breakdown of responsibilities, the technological proficiency gained, and the broader implications of the internship on personal and professional growth. This narrative serves as a testament to the dynamic interplay between technology, personal development, and the ever-evolving landscape of web development.
 
-## 9. Problem Statement and Solution Approach
+# 9. Problem Statement and Solution Approach
 
-### 9.1. Problem Statement
+## 9.1. Problem Statement
 
 The internship at InnerCord presented a compelling opportunity to address key challenges in the development and enhancement of their web application. The primary challenges included:
 
-#### 9.1.1. User Interface Design and Engagement
+### 9.1.1. User Interface Design and Engagement
 
 The existing InnerCord web application required an overhaul in terms of user interface design to enhance engagement and provide a seamless experience. The challenge was to create an interface that aligns with InnerCord's vision of simplicity, interactivity, and user-friendly navigation.
 
-#### 9.1.2. Data Analysis and Visualization
+### 9.1.2. Data Analysis and Visualization
 
 InnerCord sought to augment its data analysis capabilities by developing a streamlined error analyzer using Streamlit. This involved the effective extraction, analysis, and visualization of data to provide valuable insights for continuous improvement.
 
-#### 9.1.3. Website Enhancement
+### 9.1.3. Website Enhancement
 
 The integration of Webflow into the company's website aimed at elevating its design and functionality. This presented the challenge of seamlessly incorporating Webflow features while maintaining consistency with InnerCord's brand identity.
 
-#### 9.1.4. Collaboration and Team Dynamics
+### 9.1.4. Collaboration and Team Dynamics
 
 Ensuring effective collaboration within the development team was a recurring challenge. The internship provided an opportunity to address communication gaps and refine team dynamics to optimize productivity.
 
-### 9.2. Solution Approach
+## 9.2. Solution Approach
 
-#### 9.2.1. User Interface Design and Engagement
+### 9.2.1. User Interface Design and Engagement
 
 The solution approach for enhancing user interface design involved a systematic process:
 
@@ -196,7 +197,7 @@ The solution approach for enhancing user interface design involved a systematic 
 
 - **User Testing:** Implemented iterative design changes based on continuous user testing and feedback to ensure the final interface aligns with user expectations.
 
-#### 9.2.2. Data Analysis and Visualization
+### 9.2.2. Data Analysis and Visualization
 
 Developing the Streamlit error analyzer required a strategic approach to data analysis and visualization:
 
@@ -206,7 +207,7 @@ Developing the Streamlit error analyzer required a strategic approach to data an
 
 - **User Interaction:** Integrated interactive elements to allow users to explore data dynamically, fostering a more engaging and informative experience.
 
-#### 9.2.3. Website Enhancement
+### 9.2.3. Website Enhancement
 
 The integration of Webflow into the company's website involved a step-by-step enhancement process:
 
@@ -216,7 +217,7 @@ The integration of Webflow into the company's website involved a step-by-step en
 
 - **User Experience Optimization:** Ensured a seamless transition between the original website and the Webflow-enhanced features to maintain a cohesive user experience.
 
-#### 9.2.4. Collaboration and Team Dynamics
+### 9.2.4. Collaboration and Team Dynamics
 
 Addressing collaboration challenges within the team required a multifaceted approach:
 
@@ -226,7 +227,7 @@ Addressing collaboration challenges within the team required a multifaceted appr
 
 - **Regular Team Meetings:** Scheduled regular team meetings to discuss progress, address challenges, and foster a collaborative environment.
 
-### 9.3. Outcomes
+## 9.3. Outcomes
 
 The comprehensive solution approach resulted in notable outcomes:
 
@@ -250,7 +251,7 @@ Innercord is a platform that offers various courses and workshops on Ayurveda, V
 
 <div style="page-break-after: always;"></div>
 
-## 10. Facilities Required for Proposed Work
+# 10. Facilities Required for Proposed Work
 
 For the successful execution of the proposed internship projects, several key facilities are indispensable. Firstly, on the hardware front, providing standard laptops or desktops for team members is crucial. Additionally, having a range of testing devices, including smartphones and tablets, is essential to conduct thorough cross-compatibility testing.
 
@@ -270,23 +271,23 @@ Lastly, a conducive physical workspace is fundamental. Dedicated workstations wi
 
 Ensuring the availability of these facilities will undoubtedly contribute to the efficiency and success of the internship projects at InnerCord.
 
-## 11. Real-world Application
+# 11. Real-world Application
 
 The internship at InnerCord offered practical insights into the application of various technologies:
 
-### 11.1. **MEAN Stack Web Development:**
+## 11.1. **MEAN Stack Web Development:**
 
 Utilizing MongoDB, Express, Angular, and Node.js in the InnerCord web application showcased their real-world effectiveness. MongoDB served as a reliable database, while Express and Node.js ensured robust API functionality. Angular facilitated dynamic interfaces, and deploying on Heroku demonstrated the scalability of MEAN stack applications.
 
-### 11.2. **Streamlit Data Analysis:**
+## 11.2. **Streamlit Data Analysis:**
 
 The Streamlit error analyzer project applied data analysis to provide actionable insights into error patterns and system performance. This real-world application enhanced decision-making within InnerCord, showcasing the significance of dynamic data visualization.
 
-### 11.3. **Webflow Integration for Design Enhancement:**
+## 11.3. **Webflow Integration for Design Enhancement:**
 
 Integrating Webflow into InnerCord's website demonstrated the practical use of design tools in a professional setting. The real-time impact on user engagement highlighted the significance of such integrations in the competitive online landscape.
 
-### 11.4. **Effective Team Collaboration and Agile Methodologies:**
+## 11.4. **Effective Team Collaboration and Agile Methodologies:**
 
 Emphasizing effective team collaboration and agile methodologies showcased their real-world applicability. Tools like Slack and Trello facilitated real-time collaboration, while Scrum and Kanban methodologies effectively managed project workflows.
 
@@ -294,4 +295,5 @@ In conclusion, the real-world application section emphasizes the tangible impact
 
 <div style="page-break-after: always;"></div>
 
-## 12. Evaluation Form
+# 12. Evaluation Form
+
